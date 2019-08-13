@@ -1,0 +1,11 @@
+E:\WIN7\Feng.Winform.Controls.Demo\bin\Release\Feng.Winform.Controls.Demo.exe.config
+E:\WIN7\Feng.Winform.Controls.Demo\bin\Release\Feng.Winform.Controls.Demo.exe
+E:\WIN7\Feng.Winform.Controls.Demo\bin\Release\Feng.Winform.Controls.Demo.pdb
+E:\WIN7\Feng.Winform.Controls.Demo\bin\Release\Feng.Winform.Controls.dll
+E:\WIN7\Feng.Winform.Controls.Demo\bin\Release\Feng.Winform.Controls.pdb
+E:\WIN7\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.csprojResolveAssemblyReference.cache
+E:\WIN7\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.Form1.resources
+E:\WIN7\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.Properties.Resources.resources
+E:\WIN7\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.csproj.GenerateResource.Cache
+E:\WIN7\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.exe
+E:\WIN7\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.pdb
