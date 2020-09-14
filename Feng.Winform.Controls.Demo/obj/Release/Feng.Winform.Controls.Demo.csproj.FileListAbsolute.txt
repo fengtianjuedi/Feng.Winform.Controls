@@ -9,3 +9,6 @@ E:\WIN7\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.Proper
 E:\WIN7\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.csproj.GenerateResource.Cache
 E:\WIN7\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.exe
 E:\WIN7\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.pdb
+E:\WIN7\Feng.Winform.Controls\Feng.Winform.Controls.Demo\bin\Release\Feng.Winform.Controls.Demo.exe.config
+E:\WIN7\Feng.Winform.Controls\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.exe
+E:\WIN7\Feng.Winform.Controls\Feng.Winform.Controls.Demo\obj\Release\Feng.Winform.Controls.Demo.pdb
